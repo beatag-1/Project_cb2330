@@ -32,3 +32,6 @@ The constant decay rate is too simple to explain the variations in decay at diff
 Normal noise might not be the best distribution to describe the variations in the data as it allows negative cell densities.
 
 Using bootstrap with only 10 observations could be uncertain because smaller sample sizes will be more effected by data points being left out compared to larger datasets. For example, the c parameter will be affected a lot if the first data point is left out as it deviates from the rest.
+
+Running the notebook:
+Open project.ipynb and run
