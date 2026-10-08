@@ -1,3 +1,5 @@
+Sofia Franzén and Beata Göthlin
+
 # Project_cb2330
 This project aimed to model how prokaryotic cell density varies with ocean depth. A simple exponential decay model is used to describe the data from Table 3 of the paper Whitman et al. The project investigates to what extent the model can reproduce the observed data and analyzes the uncertainty of the estimated parameters. 
 
